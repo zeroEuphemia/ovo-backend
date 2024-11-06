@@ -1,0 +1,4 @@
+flask run --host=0.0.0.0 --port=5001
+
+./LS-Sampling-Plus/LS-Sampling-Plus -input_cnf_path input/axtls.cnf -output_testcase_path output/axtls.out -k 10
+
